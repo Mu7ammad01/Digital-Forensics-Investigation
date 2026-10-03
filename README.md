@@ -22,8 +22,7 @@
 5. [Repository Structure](#repository-structure)
 6. [Key Findings](#key-findings)
 7. [Report](#report)
-8. [Team](#team)
-9. [Legal Disclaimer](#legal-disclaimer)
+8. [Legal Disclaimer](#legal-disclaimer)
 
 ---
 
@@ -154,13 +153,6 @@ The report is treated as **confidential** and is not published in this repositor
 
 ---
 
-## Team
-
-| Name | Institution |
-|------|------------|
-| Asmaa ASSAID | CY Tech — CY ING3 MS CYBER 2025–2026 |
-| Mohamed MOHAMED CHEIKH | CY Tech — CY ING3 MS CYBER 2025–2026 |
-| Yahia LAMHAFAD | CY Tech — CY ING3 MS CYBER 2025–2026 |
 
 **Supervised by:** Mastère Spécialisé Cybersécurité & Smart Systems — CY Tech / CY Cergy Paris Université  
 **Lab date:** May 2026
